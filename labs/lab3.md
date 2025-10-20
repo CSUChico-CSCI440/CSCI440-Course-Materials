@@ -1,4 +1,4 @@
-# 🦀 Rust Lab 2: Ownership and Borrowing
+# 🦀 Rust Lab 3: Ownership and Borrowing
 
 ## 🎯 Objective
 
