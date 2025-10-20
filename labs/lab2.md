@@ -1,4 +1,4 @@
-# 🔤 Rust Assignment: String Palindrome Checker
+# 🦀 Rust Lab 2: String Palindrome Checker
 
 ## 🎯 Objective
 
