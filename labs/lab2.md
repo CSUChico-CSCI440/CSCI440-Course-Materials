@@ -64,25 +64,10 @@ Enter text: Never odd or even
 ---
 
 
-## ✅ Grading Criteria (10 pts total)
+## ✅ Grading 
 
-| Criterion                                       | Points | Description                                 |
-| ----------------------------------------------- | ------ | ------------------------------------------- |
-| Program compiles and runs                       | 2      | No compiler errors                          |
-| Input and normalization (trim, lowercase, etc.) | 2      | Handles typical user input cleanly          |
-| Correct palindrome detection                    | 3      | Works for palindromes and non-palindromes   |
-| Output formatting and clarity                   | 2      | Friendly and readable output                |
-| Code readability & comments                     | 1      | Uses good variable names and short comments |
+Submit your solution to INGInious for grading.
 
----
-
-## 🌟 Optional Extensions
-
-* Ignore punctuation (like commas and exclamation points) when checking phrases.
-* Report whether the palindrome is a **word** or **phrase**.
-* Keep prompting for input until the user types `q` to quit.
-
----
 
 **Have fun checking palindromes! 🪞**
 
