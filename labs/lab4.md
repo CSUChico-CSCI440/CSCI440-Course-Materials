@@ -107,7 +107,7 @@ Submit your *lib.rs* to INGInious for grading
 ## 🧱 Project Structure
 
 ```
-lab3/
+lab4/
 ├── Cargo.toml
 ├── src/
 │   └── lib.rs
