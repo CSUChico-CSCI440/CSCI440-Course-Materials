@@ -102,6 +102,3 @@ lab4/
     └── basic.rs
 ```
 
-
-
-Would you like me to prepare the **ZIP project** for Lab 4 (starter code + tests + `Cargo.toml`) so you can drop it into INGInious like before?
