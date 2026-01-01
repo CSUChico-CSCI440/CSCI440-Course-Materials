@@ -113,7 +113,7 @@ ownership_lab/
 
 ---
 
-## 🌟 Optional Extension
+## 🌟 Optional Extension (Don't submit, just for fun/extra learning)
 
 Write a second function that **takes ownership** instead of borrowing:
 
