@@ -61,7 +61,7 @@ pub fn handle_division(a: f64, b: f64) -> String {
 ## 🧪 Tests
 
 ```rust
-use lab6::{safe_divide, handle_division};
+use lab7::{safe_divide, handle_division};
 
 #[test]
 fn test_safe_divide() {
