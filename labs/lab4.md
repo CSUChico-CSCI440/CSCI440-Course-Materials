@@ -78,8 +78,8 @@ pub fn summarize_longest_word(text: &str) -> String {
 ## 🧾 Tests (used for autograding)
 
 ```rust
-use lab3::longest_word;
-use lab3::summarize_longest_word;
+use lab4::longest_word;
+use lab4::summarize_longest_word;
 
 #[test]
 fn test_longest_word_basic() {
