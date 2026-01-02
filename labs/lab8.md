@@ -113,7 +113,3 @@ lab8/
 └── tests/
     └── basic.rs
 ```
-
-
-
-Would you like me to generate the **ready-to-upload ZIP** for this lab (starter code + tests + Cargo + task.yaml) as with your previous labs?
