@@ -64,7 +64,7 @@ pub fn area(shape: Shape) -> f64 {
 ## 🧪 Tests
 
 ```rust
-use lab4::{Shape, area};
+use lab5::{Shape, area};
 
 #[test]
 fn test_circle() {
