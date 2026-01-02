@@ -65,7 +65,7 @@ pub fn word_frequency(text: &str) -> String {
 ## 🧪 Tests
 
 ```rust
-use lab7::word_frequency;
+use lab8::word_frequency;
 
 fn normalize(s: &str) -> Vec<String> {
     let mut parts: Vec<String> = s.split(", ").map(|x| x.to_string()).collect();
