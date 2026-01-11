@@ -65,16 +65,11 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 ### Grade Category Percentages:
 
 + Exams 18% of course grade (1 midterm in person)
-
 + Moodle Quizzes 2% of course grade
-
 + Final Project 20% of course grade
-
-+ Programming Projects 60% of course grade
-
-+ Lecture Attendance can improve/lower your grade (see above)
-
-+ Lab Attendance - up to 5%, I'll have an attendance sheet in the lab for those who come to lab regularly and make use of the lab time to ask me questions. I will consider giving up to 5% of credit for this.
++ Lab assignments 6% of course grade
++ Programming Projects 54% of course grade
++ Lab/lecture Attendance - up to 5%. I'll have an attendance sheet in the lab for those who come regularly and use the lab time to ask me questions. I will consider giving up to 5% of credit for this. Lecture attendance will be based on poll everywhere participation.
 
 ### Grading Meetings
 
