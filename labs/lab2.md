@@ -126,7 +126,7 @@ lab2/
 ├── src/
 │   └── lib.rs        # You implement is_palindrome here
 └── tests/
-    └── basic.rs      # Autograder tests (read-only)
+    └── basic.rs      # Tests
 ```
 
 * You should **only modify `src/lib.rs`**.
