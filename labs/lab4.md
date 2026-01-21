@@ -17,7 +17,7 @@ Implement the following two functions in `src/lib.rs`:
 
 ````rust
 /// Returns a reference to the longest word in the given text.
-/// If there are multiple longest words, return the first one.
+/// If there are multiple longest words, return the last one.
 ///
 /// # Example
 /// ```
