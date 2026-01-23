@@ -44,7 +44,7 @@ pub fn word_stats(text: &str) -> String {
 | `"hello world"`         | `"Words: 2, Characters: 11"` |
 | `"Rust is great"`       | `"Words: 3, Characters: 13"` |
 | `""`                    | `"Words: 0, Characters: 0"`  |
-| `"  Rust   is great  "` | `"Words: 3, Characters: 17"` |
+| `"  Rust   is great  "` | `"Words: 3, Characters: 19"` |
 
 Count **all characters**, including spaces.
 Words are separated by one or more whitespace characters.
@@ -83,7 +83,7 @@ fn test_empty() {
 
 #[test]
 fn test_extra_spaces() {
-    assert_eq!(word_stats("  Rust   is great  "), "Words: 3, Characters: 17");
+    assert_eq!(word_stats("  Rust   is great  "), "Words: 3, Characters: 19");
 }
 
 #[test]
