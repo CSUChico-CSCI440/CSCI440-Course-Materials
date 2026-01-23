@@ -50,7 +50,7 @@ pub fn summarize_longest_word(text: &str) -> String {
 
 | Input                       | Output                                     |
 | --------------------------- | ------------------------------------------ |
-| `"Rust is fast"`            | `"Longest word: Rust (4 characters)"`      |
+| `"Rust is fast"`            | `"Longest word: fast (4 characters)"`      |
 | `"Ownership and borrowing"` | `"Longest word: borrowing (9 characters)"` |
 | `"Hi"`                      | `"Longest word: Hi (2 characters)"`        |
 | `""`                        | `"Longest word:  (0 characters)"`          |
@@ -83,14 +83,14 @@ use lab4::summarize_longest_word;
 
 #[test]
 fn test_longest_word_basic() {
-    assert_eq!(longest_word("Rust is fast"), "Rust");
+    assert_eq!(longest_word("Rust is fast"), "fast");
     assert_eq!(longest_word("Ownership and borrowing"), "borrowing");
     assert_eq!(longest_word("Hi"), "Hi");
 }
 
 #[test]
 fn test_summarize() {
-    assert_eq!(summarize_longest_word("Rust is fast"), "Longest word: Rust (4 characters)");
+    assert_eq!(summarize_longest_word("Rust is fast"), "Longest word: fast (4 characters)");
     assert_eq!(summarize_longest_word("Ownership and borrowing"), "Longest word: borrowing (9 characters)");
     assert_eq!(summarize_longest_word(""), "Longest word:  (0 characters)");
 }
