@@ -6,4 +6,4 @@
 * [Ubuntu](http://ubuntu.com) - Distro of Linux I'll personally be using.
 * [Dev Docs](http://devdocs.io/) - Searchable documentation of many popular languages. Includes C documentation, which is what we'll be using primarily in this course. But great resource for all of you long term.
 * [General Academic Email Etiquette](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.h9ipxkg5z) - I'm fine with you calling me by my first name, but if you are going to use a salutation, make sure it's a correct one.
-* [Practice Midterm](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/raw/master/PracticeExams/midterm-f15_practice_nosols.pdf) - Practice CSCI440 Midterm
+* [Practice Midterm](https://github.com/CSUChico-CSCI440/CSCI440-Course-Materials/raw/main/PracticeExams/midterm-f15_practice_nosols.pdf) - Practice CSCI440 Midterm
