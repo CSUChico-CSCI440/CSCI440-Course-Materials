@@ -6,7 +6,7 @@ Practice Rust’s **ownership** and **borrowing** system by implementing a funct
 
 You will:
 
-* Pass a borrowed string slice (`&str`) to a function.
+* You will use a borrowed string slice (`&str`) in a function.
 * Return a new owned `String` value.
 * Avoid unnecessary cloning or moves.
 
