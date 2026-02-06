@@ -56,7 +56,6 @@ pub fn word_frequency(text: &str) -> String {
 
 * Use a `HashMap<String, usize>` to count word occurrences.
 * Use iterators and combinators (no manual loops with indices).
-* Avoid unnecessary `clone()` or `collect()` unless required.
 * Must compile and run without warnings.
 
 
